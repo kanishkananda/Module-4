@@ -25,7 +25,7 @@ obj = cse()
 obj.mech(r)
 ```
 ## Output
-530356259-49da7223-08e9-4dbc-9654-be5465e9b598 
+<img width="788" height="190" alt="image" src="https://github.com/user-attachments/assets/d5b0753c-d89b-4f8a-8814-a5d9f31d8300" />
 
 ## Result 
 Thus the program executed successfully.
@@ -52,7 +52,9 @@ dict3=merge(dict1,dict2)
 print(dict3)
 ```
 ## Output
-530356420-a77ea749-325d-4b7d-8844-8b8c0322d497
+
+<img width="802" height="147" alt="image" src="https://github.com/user-attachments/assets/81bc1c21-46d9-4754-a567-dffdcfd79d62" />
+
 ## Result
 Thus,the program has been executed successfully.
 
@@ -88,7 +90,8 @@ for key, value in sort.items():
     print(f"({key}, {value}) ",end="")
 ```
 ## Sample Output
-530356676-b6b5d013-ef07-4cb4-91bf-6f19b410a681
+<img width="802" height="70" alt="image" src="https://github.com/user-attachments/assets/bd972617-6083-48e4-a83b-0dd30d175cf8" />
+
 ## Result
 Thus the program executed successfully.
 
@@ -119,7 +122,8 @@ except IndexError:
     print("check index range")
 ```
 ## Output
-530356795-2b52ccfa-a1b3-4c6e-91c4-39459023b14b
+<img width="702" height="195" alt="image" src="https://github.com/user-attachments/assets/2435bb3e-209f-4145-945e-0b55961b47f5" />
+
 ## Result
 Thus the program executed successfully.
 
